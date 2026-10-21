@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <radialGradient id="g" cx="30%" cy="24%" r="80%">
+      <stop offset="0" stop-color="#E8F9CF"/>
+      <stop offset=".35" stop-color="#5CCB8F"/>
+      <stop offset=".7" stop-color="#2E9A66"/>
+      <stop offset="1" stop-color="#1C2B24"/>
+    </radialGradient>
+  </defs>
+  <circle cx="16" cy="16" r="15" fill="url(#g)"/>
+  <text x="16" y="21.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#1C2B24">FM</text>
+</svg>
